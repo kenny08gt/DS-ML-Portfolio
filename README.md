@@ -13,7 +13,7 @@ I download all the information that facebook have in my messegner with my girlfr
 * [DataDriven - Richter-s-Predictor-Modeling-Earthquake-Damage](https://github.com/kenny08gt/Richter-s-Predictor-Modeling-Earthquake-Damage-DS/blob/main/Richter's_Predictor_Modeling_Earthquake_Damage.ipynb)
 
 ## Coursera
-* [TensorFlow Developer Specialization] (https://github.com/kenny08gt/coursera-tensorflow-js)
+* [TensorFlow Developer Specialization](https://github.com/kenny08gt/coursera-tensorflow-js)
   * Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and DeepLearning
   * Convolutional Neural Networks in TensorFlow
   * Natural Language Processing in TensorFlow
